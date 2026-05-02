@@ -44,7 +44,7 @@
 | 2024 | [3D Reconstruction from a Single Sketch via View-dependent Depth Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589301) | TPAMI | |
 | 2025 | [Sketch-based Point Cloud Generation with Diffusion and Pre-training](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10888980) | IEEE | |
 | 2025 | [MS2Mesh-XR: Multi-Modal Sketch-to-Mesh Generation in XR Environments](https://ieeexplore.ieee.org/document/10896065) | IEEE AIVR | |
-| 2025 | [MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425)| ICCV 2025 | [[webpage]](https://derkleineli.github.io/meshpad/) |
+| 2025 | [MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425)| ICCV 2025 | [[webpage]](https://derkleineli.github.io/meshpad/) [[code]](https://github.com/DerKleineLi/meshpad-release)  |
 | 2025 | [PASTA: Part-Aware Sketch-to-3D Shape Generation with Text-Aligned Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_PASTA_Part-Aware_Sketch-to-3D_Shape_Generation_with_Text-Aligned_Prior_ICCV_2025_paper.pdf)| ICCV 2025 | [[webpage]](https://kuai-lab.github.io/iccv2025pasta/) [[code]](https://github.com/kuai-lab/iccv25_pasta) |
 | 2025 | [Freehand Sketch-Based 3D Reconstruction with Contour Constraints via Elastic Metrics](https://dl.acm.org/doi/10.1145/3756884.3766043)| VRST '25 |  |
 | 2025 | [Editing] [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/pdf/2411.12168)| |  |
